@@ -1,6 +1,8 @@
 ---
 title: "Lab 01 - Hello R!"
-output: 
+author: "Beatriz Goncalves"
+date: "1/23/2025"
+output: html_document
   tufte::tufte_html:
     css: ../lab.css
     tufte_variant: "envisioned"
